@@ -1,9 +1,9 @@
 # JOGL-everything-combined
-Shadows, Textures, Lights, Skybox, Camera Movement, Light Movement, and Models. (Everything combined)
+Shadows, Textures, Lights, Skybox, Camera Movement, Light Movement, and Models. (Everything combined).
 
 Keyboard Input:
-w - zoom in with the camera
-s - zoom out with the camera
+w - zoom in with the camera.
+s - zoom out with the camera.
 a – move the camera a small amount in the negative-U direction (“strafe left”).
 d – move the camera a small amount in the positive-U direction (“strafe right”).
 e – move the camera a small amount in the negative-V direction (“move down”).
